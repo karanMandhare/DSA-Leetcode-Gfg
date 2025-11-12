@@ -14,8 +14,11 @@ public:
         if(pos==n)
     return true;
     //here if the problem has only one section so pos has reached upto size then return true
+    // true and false if - true → if nums[n - 1] <= nums[0]
+    //false → if nums[n - 1] > nums[0]
     if(pos==n-1)
         return nums[n-1]<=nums[0];
+        
     
         //else we will increased the position 
         else {
