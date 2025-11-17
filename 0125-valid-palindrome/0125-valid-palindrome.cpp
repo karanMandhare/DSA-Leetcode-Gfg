@@ -1,9 +1,8 @@
 class Solution {
 private:
     bool valid(char ch) {
-        // Return true if character is alphanumeric
-        if ((ch >= 'a' && ch <= 'z') || 
-            (ch >= 'A' && ch <= 'Z') || 
+
+        if ((ch >= 'a' && ch <= 'z') || (ch >= 'A' && ch <= 'Z') ||
             (ch >= '0' && ch <= '9')) {
             return true;
         }
@@ -11,7 +10,7 @@ private:
     }
 
     char tolowercase(char ch) {
-        // Convert uppercase to lowercase
+
         if (ch >= 'A' && ch <= 'Z') {
             return ch - 'A' + 'a';
         }
