@@ -19,10 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/karanMandhare/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/karanMandhare/DSA/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/karanMandhare/DSA/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/karanMandhare/DSA/tree/master/0567-permutation-in-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/karanMandhare/DSA/tree/master/0001-two-sum) |
+| [0567-permutation-in-string](https://github.com/karanMandhare/DSA/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/karanMandhare/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/karanMandhare/DSA/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/karanMandhare/DSA/tree/master/0567-permutation-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/karanMandhare/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -42,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/karanMandhare/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/karanMandhare/DSA/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
