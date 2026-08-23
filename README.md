@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/karanMandhare/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/karanMandhare/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/karanMandhare/DSA/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/karanMandhare/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/karanMandhare/DSA/tree/master/0485-max-consecutive-ones) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/karanMandhare/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/karanMandhare/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/karanMandhare/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/karanMandhare/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/karanMandhare/DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/karanMandhare/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/karanMandhare/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/karanMandhare/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/karanMandhare/DSA/tree/master/0443-string-compression) |
