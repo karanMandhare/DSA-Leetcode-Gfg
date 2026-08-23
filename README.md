@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/karanMandhare/DSA/tree/master/0189-rotate-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/karanMandhare/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/karanMandhare/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/karanMandhare/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/karanMandhare/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/karanMandhare/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/karanMandhare/DSA/tree/master/0567-permutation-in-string) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/karanMandhare/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/karanMandhare/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/karanMandhare/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sliding Window
 |  |
 | ------- |
