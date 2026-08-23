@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/karanMandhare/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/karanMandhare/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/karanMandhare/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/karanMandhare/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/karanMandhare/DSA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/karanMandhare/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karanMandhare/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/karanMandhare/DSA/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/karanMandhare/DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/karanMandhare/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/karanMandhare/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/karanMandhare/DSA/tree/master/0268-missing-number) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/karanMandhare/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/karanMandhare/DSA/tree/master/0073-set-matrix-zeroes) |
 ## Greedy
 |  |
