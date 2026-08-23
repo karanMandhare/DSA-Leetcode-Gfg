@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karanMandhare/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/karanMandhare/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/karanMandhare/DSA/tree/master/0189-rotate-array) |
+| [0485-max-consecutive-ones](https://github.com/karanMandhare/DSA/tree/master/0485-max-consecutive-ones) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/karanMandhare/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/karanMandhare/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/karanMandhare/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
