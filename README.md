@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/karanMandhare/DSA/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/karanMandhare/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0189-rotate-array](https://github.com/karanMandhare/DSA/tree/master/0189-rotate-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/karanMandhare/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/karanMandhare/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/karanMandhare/DSA/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/karanMandhare/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0567-permutation-in-string](https://github.com/karanMandhare/DSA/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/karanMandhare/DSA/tree/master/0567-permutation-in-string) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/karanMandhare/DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
