@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/karanMandhare/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/karanMandhare/DSA/tree/master/0011-container-with-most-water) |
 | [0073-set-matrix-zeroes](https://github.com/karanMandhare/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/karanMandhare/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/karanMandhare/DSA/tree/master/0189-rotate-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/karanMandhare/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/karanMandhare/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/karanMandhare/DSA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/karanMandhare/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/karanMandhare/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0567-permutation-in-string](https://github.com/karanMandhare/DSA/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/karanMandhare/DSA/tree/master/0011-container-with-most-water) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/karanMandhare/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
