@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/karanMandhare/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/karanMandhare/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/karanMandhare/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/karanMandhare/DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karanMandhare/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/karanMandhare/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/karanMandhare/DSA/tree/master/0189-rotate-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/karanMandhare/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/karanMandhare/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/karanMandhare/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/karanMandhare/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/karanMandhare/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/karanMandhare/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/karanMandhare/DSA/tree/master/0189-rotate-array) |
@@ -117,9 +119,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/karanMandhare/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/karanMandhare/DSA/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/karanMandhare/DSA/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/karanMandhare/DSA/tree/master/0268-missing-number) |
 ## Database
 |  |
 | ------- |
 | [1667-fix-names-in-a-table](https://github.com/karanMandhare/DSA/tree/master/1667-fix-names-in-a-table) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/karanMandhare/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/karanMandhare/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
