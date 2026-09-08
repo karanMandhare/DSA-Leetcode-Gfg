@@ -9,7 +9,7 @@ class Solution(object):
             if nums[mid]==target:
                 found=True
                 break
-            if nums[low]==nums[mid]==nums[high]:
+            elif nums[low]==nums[mid]==nums[high]:
                 low+=1
                 high-=1
             elif nums[mid]<=nums[high]:
