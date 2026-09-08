@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/karanMandhare/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/karanMandhare/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/karanMandhare/DSA/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/karanMandhare/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karanMandhare/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/karanMandhare/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/karanMandhare/DSA/tree/master/0189-rotate-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/karanMandhare/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/karanMandhare/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/karanMandhare/DSA/tree/master/0069-sqrtx) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/karanMandhare/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/karanMandhare/DSA/tree/master/0268-missing-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/karanMandhare/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 ## String
